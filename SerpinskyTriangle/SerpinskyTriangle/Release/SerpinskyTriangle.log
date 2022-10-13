@@ -1,38 +1,39 @@
 ﻿  Source.cpp
-D:\repos\SerpinskyTriangle\SerpinskyTriangle\Source.cpp(23,20): warning C4018: <: несоответствие типов со знаком и без знака
-D:\repos\SerpinskyTriangle\SerpinskyTriangle\Source.cpp(93,62): warning C4244: аргумент: преобразование "float" в "_Ty", возможна потеря данных
+D:\term3\SerpinskyTriangle\SerpinskyTriangle\Source.cpp(27,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\term3\SerpinskyTriangle\SerpinskyTriangle\Source.cpp(91,65): warning C4244: аргумент: преобразование "float" в "_Ty", возможна потеря данных
           with
           [
               _Ty=int
           ]
-D:\repos\SerpinskyTriangle\SerpinskyTriangle\Source.cpp(93,46): warning C4244: аргумент: преобразование "float" в "_Ty", возможна потеря данных
+D:\term3\SerpinskyTriangle\SerpinskyTriangle\Source.cpp(91,47): warning C4244: аргумент: преобразование "float" в "_Ty", возможна потеря данных
           with
           [
               _Ty=int
           ]
-D:\repos\SerpinskyTriangle\SerpinskyTriangle\Source.cpp(99,54): warning C4244: аргумент: преобразование "float" в "_Ty", возможна потеря данных
+D:\term3\SerpinskyTriangle\SerpinskyTriangle\Source.cpp(97,57): warning C4244: аргумент: преобразование "float" в "_Ty", возможна потеря данных
           with
           [
               _Ty=int
           ]
-D:\repos\SerpinskyTriangle\SerpinskyTriangle\Source.cpp(99,46): warning C4244: аргумент: преобразование "float" в "_Ty", возможна потеря данных
+D:\term3\SerpinskyTriangle\SerpinskyTriangle\Source.cpp(97,47): warning C4244: аргумент: преобразование "float" в "_Ty", возможна потеря данных
           with
           [
               _Ty=int
           ]
-D:\repos\SerpinskyTriangle\SerpinskyTriangle\Source.cpp(107,35): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+D:\term3\SerpinskyTriangle\SerpinskyTriangle\Source.cpp(105,35): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
           with
           [
               T=float
           ]
-D:\repos\SerpinskyTriangle\SerpinskyTriangle\Source.cpp(107,28): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+D:\term3\SerpinskyTriangle\SerpinskyTriangle\Source.cpp(105,28): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
           with
           [
               T=float
           ]
   Создание кода
-  Previous IPDB not found, fall back to full compilation.
-D:\repos\SerpinskyTriangle\SerpinskyTriangle\Source.cpp(110): warning C4172: возвращение адреса локальной или временной переменной : currentPos
-  All 182 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+D:\term3\SerpinskyTriangle\SerpinskyTriangle\Source.cpp(108): warning C4172: возвращение адреса локальной или временной переменной : currentPos
+  178 of 185 functions (96.2%) were compiled, the rest were copied from previous compilation.
+    5 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
   Создание кода завершено
-  SerpinskyTriangle.vcxproj -> D:\repos\SerpinskyTriangle\Release\SerpinskyTriangle.exe
+  SerpinskyTriangle.vcxproj -> D:\term3\SerpinskyTriangle\Release\SerpinskyTriangle.exe

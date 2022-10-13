@@ -1,1 +1,2 @@
 D:\repos\SerpinskyTriangle\SerpinskyTriangle\Release\SerpinskyTriangle.vcxproj.CopyComplete
+D:\term3\SerpinskyTriangle\SerpinskyTriangle\Release\SerpinskyTriangle.vcxproj.CopyComplete
