@@ -1,0 +1,34 @@
+﻿  Source.cpp
+D:\repos\SerpinskyTriangle\SerpinskyTriangle\Source.cpp(23,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\repos\SerpinskyTriangle\SerpinskyTriangle\Source.cpp(93,62): warning C4244: аргумент: преобразование "float" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+D:\repos\SerpinskyTriangle\SerpinskyTriangle\Source.cpp(93,46): warning C4244: аргумент: преобразование "float" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+D:\repos\SerpinskyTriangle\SerpinskyTriangle\Source.cpp(99,54): warning C4244: аргумент: преобразование "float" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+D:\repos\SerpinskyTriangle\SerpinskyTriangle\Source.cpp(99,46): warning C4244: аргумент: преобразование "float" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+D:\repos\SerpinskyTriangle\SerpinskyTriangle\Source.cpp(107,35): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\repos\SerpinskyTriangle\SerpinskyTriangle\Source.cpp(107,28): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\repos\SerpinskyTriangle\SerpinskyTriangle\Source.cpp(110): warning C4172: возвращение адреса локальной или временной переменной : currentPos
+  SerpinskyTriangle.vcxproj -> D:\repos\SerpinskyTriangle\Debug\SerpinskyTriangle.exe
