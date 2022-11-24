@@ -1,8 +1,0 @@
-﻿  Source.cpp
-C:\Users\Илья\source\repos\Painter\Painter\Source.cpp(250,27): warning C4018: <: несоответствие типов со знаком и без знака
-  Создание кода
-  1 of 292 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
-  Создание кода завершено
-  Painter.vcxproj -> C:\Users\Илья\source\repos\Painter\Release\Painter.exe
